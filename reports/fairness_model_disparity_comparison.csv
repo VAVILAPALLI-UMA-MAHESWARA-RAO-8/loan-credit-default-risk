@@ -1,0 +1,17 @@
+Model,Attribute,Metric,Absolute_Difference
+Original,SEX,Predicted_Default_Rate,0.04365471103087898
+Original,SEX,TPR,0.008650370415083208
+Original,SEX,FPR,0.03999842179855587
+Original,SEX,Precision,0.022237654041729282
+Demographic Reduced,SEX,Predicted_Default_Rate,0.03495797106677731
+Demographic Reduced,SEX,TPR,0.02053940608219018
+Demographic Reduced,SEX,FPR,0.0318144316365324
+Demographic Reduced,SEX,Precision,0.014035964035963966
+Original,AGE_GROUP,Predicted_Default_Rate,0.09535122098281582
+Original,AGE_GROUP,TPR,0.13259992665933262
+Original,AGE_GROUP,FPR,0.059956920155047735
+Original,AGE_GROUP,Precision,0.10354662698412698
+Demographic Reduced,AGE_GROUP,Predicted_Default_Rate,0.09739724650788864
+Demographic Reduced,AGE_GROUP,TPR,0.13526114516213528
+Demographic Reduced,AGE_GROUP,FPR,0.06143096554108715
+Demographic Reduced,AGE_GROUP,Precision,0.13609946646341464
